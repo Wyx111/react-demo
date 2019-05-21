@@ -1,0 +1,14 @@
+.intro-title{
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #ffffff;
+  margin-top: 200px;
+}
+.intro-desc{
+  margin: 0px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  letter-spacing: 0.45px;
+  line-height: 32px;
+}

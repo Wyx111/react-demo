@@ -1,0 +1,12 @@
+.login-body{
+  color: #ffffff;
+  margin-top: 200px;
+  width: 400px;
+  background-color: #ffffff;
+  padding: 25px 50px;
+  height: 320px;
+  border-radius: 12px;
+}
+.login-body h1{
+  text-align: center;
+}

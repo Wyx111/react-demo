@@ -1,0 +1,11 @@
+.baisc-footer{
+  height: 70px;
+  line-height: 70px;
+  color: #666666;
+}
+.baisc-footer-left{
+  float: left;
+}
+.baisc-footer-right{
+  float: right;
+}

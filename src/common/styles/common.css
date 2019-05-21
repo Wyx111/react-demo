@@ -1,0 +1,32 @@
+body{
+  font-family: Roboto, "Helvetica Neue", Helvetica, Tahoma, Arial, "PingFang SC", "Microsoft YaHei";
+  font-size: 14px;
+  line-height: 1.28571;
+  color: #333333;
+}
+p{
+  margin-bottom: 0;
+}
+.float-right{
+  float: right;
+}
+
+/* 重定义 antd样式 */
+.ant-menu-horizontal > .ant-menu-item:hover, .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected {
+  background-color: #F2F3F7;
+  color: #3080FE;
+  font-weight: bold;
+}
+
+.ant-menu-item, .ant-menu-submenu-title {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding: 5px 25px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: color 0.3s cubic-bezier(0.645, 0.045, 0.355, 1), border-color 0.3s cubic-bezier(0.645, 0.045, 0.355, 1), background 0.3s cubic-bezier(0.645, 0.045, 0.355, 1), padding 0.15s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.ant-menu-horizontal{
+  border-bottom: 0;
+}

@@ -1,0 +1,35 @@
+.business-card{
+  background-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.business-card-col{
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+}
+.business-card-1{
+  font-size: 12px;
+  margin-bottom: 5px;
+  color: rgb(155, 155, 155);
+}
+.business-card-2{
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: rgb(74, 144, 226);
+}
+.business-card-3{
+  font-size: 12px;
+  color: rgb(155, 155, 155);
+}
+.business-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  color: rgb(74, 144, 226);
+  font-size: 32px;
+}

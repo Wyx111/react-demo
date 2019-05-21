@@ -1,0 +1,29 @@
+.container {
+  position: relative;
+  width: 100wh;
+  min-width: 1200px;
+  height: 100vh;
+  background-image:url(https://starchain.cn.gcimg.net/2019/0521/yg3n6aeegvul1cbt020233.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+};
+.intro{
+  color: #ffffff;
+  margin-top: 200px;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-top: 300px;
+}
+.col{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}

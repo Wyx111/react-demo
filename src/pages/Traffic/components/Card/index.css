@@ -1,0 +1,30 @@
+.traffic-card{
+  background-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.traffic-title{
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.traffic-card-1{
+  font-size: 12px;
+  margin-top: 10px;
+  color: rgb(102, 102, 102);
+}
+.traffic-card-2{
+  color: rgb(68, 126, 255);
+  font-size: 24px;
+  margin: 10px 0px;
+}
+.traffic-card-3{
+  font-size: 12px;
+  color: rgb(153, 153, 153)
+}
